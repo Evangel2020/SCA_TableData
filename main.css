@@ -1,0 +1,21 @@
+h1, p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.shade1 {
+    background-color: #eee;
+}
+table {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    width: 100%;
+    font-family: serif;
+}
+th,td {
+    padding: 10px;
+    border-left: 1px solid #ddd;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
